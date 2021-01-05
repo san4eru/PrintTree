@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\san4e\Desktop\AVL-дерево\PrintTree\PrintTree\Source.cpp(119,8): warning C4101: x: неиспользованная локальная переменная
+C:\Users\san4e\Desktop\AVL-дерево\PrintTree\PrintTree\Source.cpp(438,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\san4e\Desktop\AVL-дерево\PrintTree\PrintTree\Source.cpp(442,6): warning C4101: i: неиспользованная локальная переменная
+  PrintTree.vcxproj -> C:\Users\san4e\Desktop\AVL-дерево\PrintTree\Debug\PrintTree.exe
